@@ -1,0 +1,9 @@
+gold sand: e9c48c
+grass light: 41980a
+grass dark: 136d15
+rock light: bdc7c4 
+rock dark: 8c9399 
+water light: 73b6fe 
+water dark: 0600FE
+white water: ACF2FF
+dirt: 654321
